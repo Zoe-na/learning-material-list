@@ -14,11 +14,12 @@
 
 ## 计算机资料
 
-1. [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course)
-2. [上海交通大学课程资料分享](https://github.com/CoolPhilChen/SJTU-Courses)
-3. [清华大学计算机系课程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT)
-4. [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
-5. [贵校课程资料民间整理](https://github.com/lib-pku/libpku)
+1. [计算机相关技术资料整理](https://github.com/EZLippi/practical-programming-books)
+2. [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course)
+3. [上海交通大学课程资料分享](https://github.com/CoolPhilChen/SJTU-Courses)
+4. [清华大学计算机系课程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT)
+5. [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
+6. [贵校课程资料民间整理](https://github.com/lib-pku/libpku)
 
 ## 面试资料
 
