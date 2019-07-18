@@ -52,9 +52,10 @@
 
 ## 电子书
 
-1. [计算机相关电子书](https://github.com/yuanliangding/books)
-2. [【编程随想】收藏的电子书清单（多个学科，含下载链接）](https://github.com/programthink/books)
-3. [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
+1. [Java开发者技术书籍大全](https://github.com/sorenduan/awesome-java-books)
+2. [计算机相关电子书](https://github.com/yuanliangding/books)
+3. [【编程随想】收藏的电子书清单（多个学科，含下载链接）](https://github.com/programthink/books)
+4. [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
 
 ## 其他
 
